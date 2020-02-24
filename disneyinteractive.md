@@ -13,7 +13,7 @@ These pages were updated every two weeks, with any updates to broadway shows whi
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 3. Disney Tickets Showcase Page - 
+### 3. Disney Tickets Showcase Page 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
