@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
 
-[Planet AR - Dissertation Piece](/sample_page)
+
+[Planet AR - Dissertation Piece](/planetar)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
