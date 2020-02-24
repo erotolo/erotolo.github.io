@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Disney Interactive](/pdf/sample_presentation.pdf)
+[Disney Interactive](/disneyinteractive.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
