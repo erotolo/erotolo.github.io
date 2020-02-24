@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Disney Interactive](/disneyinteractive.md)
+[Disney Interactive](/disneyinteractive)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Anna Arts Photography](http://example.com/)
+[Anna Arts Photography](/annarts)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
