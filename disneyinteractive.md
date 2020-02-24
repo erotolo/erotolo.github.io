@@ -10,6 +10,7 @@ Below are some examples of projects that I have worked on.
 ### 2. Shows Pages - Fortnightly 
 
 These pages were updated every two weeks, with any updates to broadway shows while staying in contact with different teams about what updates had been made. 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### 3. Disney Tickets Showcase Page - 
