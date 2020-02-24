@@ -2,8 +2,9 @@ title: Evelyn Rotolo # your name (or website title) here
 logo: "/images/profilepic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Undergraduate student at Birmingham City University studying Digital Media Computing (BScHons).
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/evelyn-rotolo">View My LinkedIn Profile</a> 
+  <br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
