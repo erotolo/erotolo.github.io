@@ -19,7 +19,7 @@ These pages were updated every two weeks, with any updates to broadway shows whi
 
 ### 4. 5 Things You Might Not Know About Disney Cruise Line
 
-View live here - <a href> "https://disney.co.uk/parks/5-things-you-didnt-know-disney-cruise-line"</a>
+View live here - <a href> https://disney.co.uk/parks/5-things-you-didnt-know-disney-cruise-line</a>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
