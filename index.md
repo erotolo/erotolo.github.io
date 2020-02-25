@@ -5,7 +5,7 @@
 
 
 [Planet AR - Dissertation Piece](/planetar)
-<img src="images/LOGO.jpg?raw=true"/>
+<img src="images/LOGO2.jpg?raw=true"/>
 
 ---
 [Disney Interactive](/disneyinteractive)
