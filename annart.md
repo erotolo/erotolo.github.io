@@ -4,7 +4,7 @@
 
 Please see here for the github page
 
-<a href ="www.annartsphotography.com">Please see here to the live site</a>
+<a href ="www.annartsphotography.com">Please see here for the live site</a>
 
 ### Screenshots
 <img src="images/AnnartHomepage.png?raw=true"/>
