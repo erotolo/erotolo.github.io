@@ -6,7 +6,7 @@ Please see here for the github page
 
 <a href ="www.annartsphotography.com">Please see here to the live site</a>
 
-### screenshots
+### Screenshots
 <img src="images/AnnartHomepage.png?raw=true"/>
 
 <img src="images/AnnartChildandFam.png?raw=true"/>
