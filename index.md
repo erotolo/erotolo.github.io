@@ -13,7 +13,7 @@
 
 ---
 [Anna Arts Photography](/annarts)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AnnartHomepage.png?raw=true"/>
 
 ---
 
