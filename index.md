@@ -9,7 +9,7 @@
 
 ---
 [Disney Interactive](/disneyinteractive)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Anna Arts Photography](/annarts)
