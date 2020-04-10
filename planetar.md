@@ -4,26 +4,18 @@
 
 **Please note: this project is currently on going and I will be updating this page as the project progresses**
 
-### Wireframes
+### Logo/Opening Scene
+<img src="images/OpeningScreen.png?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Learning Scene
 
-### 2. 3D Models 
+<img src="images/PlanetARScreen.png?raw=true"/>
 
+### Quiz Scene
+<img src="images/ARQuiz.png?raw=true"/>
+
+### 4. 3D Models
 Below are the 3D models that I created using Maya with textures from NASA satallites. 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 3. Marker Designs
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. UI Mockups
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 5. Logo/Opening Screen
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/3DPlanet.png?raw=true"/>
 
 
