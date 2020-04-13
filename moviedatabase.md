@@ -5,15 +5,14 @@
 [View the project files here](https://github.com/erotolo/moviedatabase/tree/master)
 
 ### Search 
-<img src="images/OpeningScreen.png?raw=true"/>
+<img src="images/moviedata.png?raw=true"/>
 
 ### Search Results
-<img src="images/PlanetARScreen.png?raw=true"/>
+<img src="images/moviedata2.png?raw=true"/>
 
 ### Movie info 
-<img src="images/ARQuiz.png?raw=true"/>
+
 
 ### 4. Favourites list 
-Below are the 3D models that I created using Maya with textures from NASA satallites. 
-<img src="images/3DPlanet.png?raw=true"/>
+
 
