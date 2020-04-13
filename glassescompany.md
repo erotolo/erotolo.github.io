@@ -5,7 +5,7 @@
 [View the project files here](https://github.com/erotolo/glassescompany)
 
 
-<img src="images/glasses1png?raw=true"/>
+<img src="images/glasses1.png?raw=true"/>
 
 <img src="images/glasses2.png?raw=true"/>
 
