@@ -18,7 +18,7 @@
 ---
 
 [Movie Database](/moviedatabase)
-<img src="images/moviedata2.jpg?raw=true"/>
+<img src="images/moviedata2.png?raw=true"/>
 
 ---
 
