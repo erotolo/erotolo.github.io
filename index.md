@@ -12,7 +12,7 @@
 
 
 ---
-[Anna Arts Photography](/annarts)
+[Anna Arts Photography](/annart)
 <img src="images/AnnartHomepage.png?raw=true"/>
 
 ---
@@ -22,8 +22,8 @@
 
 ---
 
-[Glasses Company](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Glasses Company](/glassescompany)
+<img src="images/glasses1.png?raw=true"/>
 
 ---
 
@@ -33,5 +33,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
