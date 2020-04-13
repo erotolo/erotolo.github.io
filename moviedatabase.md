@@ -13,6 +13,6 @@
 ### Movie info 
 
 
-### 4. Favourites list 
+### Favourites list 
 
 
