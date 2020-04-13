@@ -2,6 +2,14 @@
 
 **About the project** For my final year project at university, I am exploring the benefits and usage of AR within the classroom. To explore this, I dam Developing and designing an AR application within Unity 3D and C# to assist children learning about the Solar System. It is currently being developed for Android and IOS devices then tested with groups of school children to evaluate and test the effectiveness of AR within the classroom. 
 
+Key features of this project include: 
++ Active/unactive menusand popups
++ Sprite and UI animation - Moving info boxes and bobbing spaceman
++ Dialogue sytem
++ Raycast info pop ups
++ 3D Model animation - spinning planets
++ Quiz mode - counting scores, randomising questions
+
 **Please note: this project is currently on going and I will be updating this page as the project progresses**
 
 ### Logo/Opening Scene
