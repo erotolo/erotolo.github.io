@@ -17,7 +17,7 @@
 
 ---
 
-[Music Database](http://example.com/)
+[Movie Database](/moviedatabase)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
