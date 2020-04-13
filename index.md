@@ -8,10 +8,6 @@
 <img src="images/LOGO2.jpg?raw=true"/>
 
 ---
-[Disney Interactive](/disneyinteractive)
-
-
----
 [Anna Arts Photography](/annart)
 <img src="images/AnnartHomepage.png?raw=true"/>
 
