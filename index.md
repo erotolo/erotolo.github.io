@@ -1,4 +1,4 @@
-## Portfolio of work
+## Portfolio
 
 ---
 Hi, this portfolio is a showcase of some key technical projects I've done over the years as a student and in my spare time. Please click on the projects below to find out more about the project including source code. If you have any questions or would like to get in contact, please see my contact section in the sidebar. 
