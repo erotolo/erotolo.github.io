@@ -3,7 +3,11 @@ logo: "/images/profilepic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Undergraduate student at Birmingham City University studying Digital Media Computing (BScHons). 
   <br>
-  email: evelynrotolo@gmail.com
+  Contact me!
+  <br>
+  Email: evelynrotolo@gmail.com
+  <br>
+ <a href="https://www.linkedin.com/in/evelyn-rotolo">View My LinkedIn Profile</a>
 
 
 theme: jekyll-theme-minimal
