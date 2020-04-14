@@ -15,7 +15,7 @@ Thankyou for visiting!
 
 ---
 
-Movie Database - API Project](/moviedatabase)
+[Movie Database - API Project](/moviedatabase)
 <img src="images/moviedata2.png?raw=true"/>
 
 ---
