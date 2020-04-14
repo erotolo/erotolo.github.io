@@ -10,9 +10,6 @@
 ### Search Results
 <img src="images/moviedata2.png?raw=true"/>
 
-### Movie info 
 
-
-### Favourites list 
 
 
